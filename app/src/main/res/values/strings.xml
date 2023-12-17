@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Foodie Pal</string>
+
+    <!--    login page strings-->
+    <string name="username_txt">Username</string>
+    <string name="password_txt">Password</string>
+    <string name="login_txt">Login</string>
+
+    <string name="detail_txt">Detail</string>
+    <string name="blog_title_txt">Blog Title</string>
+    <string name="blog_content_txt">Blog Content</string>
+    <string name="meal_name_txt">Meal Name</string>
+    <string name="recipe_name_txt">Recipe Name</string>
+    <string name="ingredients_txt">Ingredients</string>
+    <string name="instructions_txt">Instructions</string>
+    <string name="cooking_time_minutes_txt">Cooking Time (minutes)</string>
+    <string name="chef_name">Fortune King</string>
+    <string name="fab_txt">Add item</string>
+    <string name="call_chef_txt">Call the Chef</string>
+    <string name="email_chef_txt">Email the Chef</string>
+    <string name="recipe_img_txt">recipe image</string>
+
+    <!--    nav menu strings-->
+    <string name="nav_item_1">Recipes</string>
+    <string name="nav_item_2">Meal Planner</string>
+    <string name="nav_item_3">Blog</string>
+
+    <string-array name="days_array">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="meal_times_array">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+</resources>
